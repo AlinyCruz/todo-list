@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Sacramento&display=swap');
+
+.item-row {
+  background-color: #99a4b3;
+  color: #043132;
+  margin: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  font-family: 'Courgette', cursive;
+}
+
+.item-row > div {
+  margin: 5px;
+}
+
+.item-row-desc {
+  flex-grow: 1;
+}
+
+.item-row-desc-check {
+  text-decoration: line-through;
+}
