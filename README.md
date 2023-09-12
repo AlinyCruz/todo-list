@@ -2,7 +2,7 @@
 
 Aplicação full stack de lista de tarefas.
 
-<img height="280em" align="center" src="../API_CRUD/img.png"/>
+<img height="280em" align="center" src="img.png"/>
 
 
 ## Rodando a aplicação localmente
